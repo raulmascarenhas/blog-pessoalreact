@@ -1,20 +1,32 @@
-.box-principal{
-    background-image: url(/src/assets/image/ceu1.png);
+.imagem {
+    background-image: url(/src/assets/image/As\ Argonathh.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: 66vh;
+    background-position: center;
+
+}
+
+
+.box-principal {
+    background-image: url(/src/assets/image/Asc1.png);
+    background-repeat: repeat;
+    height: 100vh;
+    background-size: auto;
+    background-position: center center;
 
 }
 
 .textos1 {
     font-weight: bold !important;
+    color: rgb(215, 217, 219);
 }
 
-.imagem {
-    background-image: url(/src/assets/image/As\ Argonathh.jpg);
-    background-repeat: no-repeat;
-    height: 40rem;
-    background-size: contain;
-    background-position: center;
-}
+
 
 .text-decorator-none {
     text-decoration: none;
+    color:aliceblue;
 }
+

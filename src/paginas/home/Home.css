@@ -1,18 +1,26 @@
-.caixa{
+.caixa {
     background-color: #3F51B5;
 }
 
-.titulo{
-   color: white !important;
-   font-weight: bold !important;
+.titulo {
+    color: white !important;
+    font-weight: bold !important;
+    font-family: "California Riders", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+
 }
 
-.botao{
+.botao {
     border-color: white !important;
     background-color: #3F51B5;
     color: white !important;
+    font-family: "California Riders", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+
 }
 
-.postagens{
+.postagens {
     background-color: white;
 }

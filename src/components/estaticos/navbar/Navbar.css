@@ -1,8 +1,22 @@
-.cursor{
+.cursor {
     cursor: pointer;
     color: white;
 }
 
-.text-decorator-none{
+.text-decorator-none {
     text-decoration: none;
+}
+
+.navbar-title {
+    font-family: "California Riders", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-link {
+    font-family: "California Riders", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
 }
